@@ -489,7 +489,7 @@ Distribution:
         - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
           stake: 1041666.66 tokens
           dissolve_delay: 6 months # 6 months
-          vesting_period: 58078800 # 23 months
+          vesting_period: 23months # 23 months
           memo: 22
 
         - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
