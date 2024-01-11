@@ -799,145 +799,145 @@ Distribution:
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 1 months # 1 month
           memo: 0 
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 2 months # 2 months
           memo: 1 
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 3 months # 3 months
           memo: 2 
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 4 months # 4 months
           memo: 3 
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 5 months # 5 months
           memo: 4
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 6 months # 6 months
           memo: 5
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 7 months # 7 months
           memo: 6
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 8 months # 8 months
           memo: 7
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 9 months # 9 months
           memo: 8
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 10 months # 10 months
           memo: 9
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 11 months # 11 months
           memo: 10
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 12 months # 12 months
           memo: 11
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 13 months # 13 months
           memo: 12
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 14 months # 14 months
           memo: 13
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 15 months # 15 months
           memo: 14
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 16 months # 16 months
           memo: 15
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 17 months # 17 months
           memo: 16
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 18 months # 18 months
           memo: 17
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 19 months # 19 months
           memo: 18
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 20 months # 20 months
           memo: 19
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 21 months # 21 months
           memo: 20
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 22 months # 22 months
           memo: 21
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.777 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 23 months # 23 months
           memo: 22
 
         - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
           stake: 277777.796 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 24 months # 24 months
           memo: 23
 
@@ -948,73 +948,73 @@ Distribution:
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
-          vesting_period: 0
+          dissolve_delay: 0 sec
+          vesting_period: 0 sec
           memo: 0 
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 1 months # 1 month
           memo: 1 
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 2 months # 2 months
           memo: 2 
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 3 months # 3 months
           memo: 3
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 4 months # 4 months
           memo: 4
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 5 months # 5 months
           memo: 5
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 6 months # 6 months
           memo: 6
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 7 months # 7 months
           memo: 7
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 8 months # 8 months
           memo: 8
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 9 months # 9 months
           memo: 9
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 10 months # 10 months
           memo: 10
 
         - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
           stake: 793650.793 tokens
-          dissolve_delay: 0
+          dissolve_delay: 0 sec
           vesting_period: 11 months # 11 months
           memo: 11
     # The initial SNS token balances of the various canisters of the SNS.
