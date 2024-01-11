@@ -354,293 +354,293 @@ Distribution:
 #40M+ 50M = 90M tokens (= 9% of total supply)
     #（分2份，其中1份5千万ICS代币，5%，剩余4%是另一份，4千万ICS代币。每份再分成48个等值神经元。相当于说2个PID，每个PID里面有48个神经元，按照48个月线性解锁）
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 2628000 # 1 month
-        memo: 0
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 2628000 # 1 month
+          memo: 0
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 5256000 # 2 months
-        memo: 1
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 5256000 # 2 months
+          memo: 1
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 7884000 # 3 months
-        memo: 2
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 7884000 # 3 months
+          memo: 2
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 10512000 # 4 months
-        memo: 3
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 10512000 # 4 months
+          memo: 3
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 13140000 # 5 months
-        memo: 4
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 13140000 # 5 months
+          memo: 4
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 15768000 # 6 months
-        memo: 5
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 15768000 # 6 months
+          memo: 5
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 18396000 # 7 months
-        memo: 6
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 18396000 # 7 months
+          memo: 6
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 21024000 # 8 months
-        memo: 7
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 21024000 # 8 months
+          memo: 7
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 23652000 # 9 months
-        memo: 8
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 23652000 # 9 months
+          memo: 8
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 26280000 # 10 months
-        memo: 9
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 26280000 # 10 months
+          memo: 9
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 28908000 # 11 months
-        memo: 10
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 28908000 # 11 months
+          memo: 10
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 31536000 # 12 months
-        memo: 11
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 31536000 # 12 months
+          memo: 11
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 34164000 # 13 months
-        memo: 12
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 34164000 # 13 months
+          memo: 12
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 36792000 # 14 months
-        memo: 13
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 36792000 # 14 months
+          memo: 13
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 39420000 # 15 months
-        memo: 14
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 39420000 # 15 months
+          memo: 14
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 42048000 # 16 months
-        memo: 15
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 42048000 # 16 months
+          memo: 15
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 44676000 # 17 months
-        memo: 16
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 44676000 # 17 months
+          memo: 16
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 47304000 # 18 months
-        memo: 17
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 47304000 # 18 months
+          memo: 17
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 49932000 # 19 months
-        memo: 18
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 49932000 # 19 months
+          memo: 18
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 52560000 # 20 months
-        memo: 19
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 52560000 # 20 months
+          memo: 19
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 55188000 # 21 months
-        memo: 20
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 55188000 # 21 months
+          memo: 20
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 57816000 # 22 months
-        memo: 21
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 57816000 # 22 months
+          memo: 21
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 58078800 # 23 months
-        memo: 22
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 58078800 # 23 months
+          memo: 22
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 63072000 # 24 months
-        memo: 23
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 63072000 # 24 months
+          memo: 23
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 65700000 # 25 months
-        memo: 24
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 65700000 # 25 months
+          memo: 24
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 68328000 # 26 months
-        memo: 25
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 68328000 # 26 months
+          memo: 25
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 70956000 # 27 months
-        memo: 26
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 70956000 # 27 months
+          memo: 26
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 73584000 # 28 months
-        memo: 27
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 73584000 # 28 months
+          memo: 27
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 76212000 # 29 months
-        memo: 28
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 76212000 # 29 months
+          memo: 28
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 78840000 # 30 months
-        memo: 29
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 78840000 # 30 months
+          memo: 29
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 81468000 # 31 months
-        memo: 30
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 81468000 # 31 months
+          memo: 30
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 84096000 # 32 months
-        memo: 31
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 84096000 # 32 months
+          memo: 31
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 86724000 # 33 months
-        memo: 32
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 86724000 # 33 months
+          memo: 32
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 89352000 # 34 months
-        memo: 33
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 89352000 # 34 months
+          memo: 33
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 91980000 # 35 months
-        memo: 34
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 91980000 # 35 months
+          memo: 34
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 94608000 # 36 months
-        memo: 35
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 94608000 # 36 months
+          memo: 35
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 97236000 # 37 months
-        memo: 36
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 97236000 # 37 months
+          memo: 36
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 99864000 # 38 months
-        memo: 37
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 99864000 # 38 months
+          memo: 37
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 102492000 # 39 months
-        memo: 38
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 102492000 # 39 months
+          memo: 38
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 105120000 # 40 months
-        memo: 39
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 105120000 # 40 months
+          memo: 39
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 107748000 # 41 months
-        memo: 40
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 107748000 # 41 months
+          memo: 40
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 110376000 # 42 months
-        memo: 41
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 110376000 # 42 months
+          memo: 41
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 113004000 # 43 months
-        memo: 42
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 113004000 # 43 months
+          memo: 42
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 115632000 # 44 months
-        memo: 43
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 115632000 # 44 months
+          memo: 43
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 118260000 # 45 months
-        memo: 44
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 118260000 # 45 months
+          memo: 44
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 120888000 # 46 months
-        memo: 45
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 120888000 # 46 months
+          memo: 45
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.66 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 123516000 # 47 months
-        memo: 46
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.66 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 123516000 # 47 months
+          memo: 46
 
-        principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
-        stake: 1041666.98 tokens
-        dissolve_delay_seconds: 15768000 # 6 months
-        vesting_period_seconds: 126144000 # 48 months
-        memo: 47
+        - principal: mbu3x-cebw3-iasof-pdbt5-vo3j6-yypqg-rtbfa-mp26u-yoic5-rfaoe-4qe
+          stake: 1041666.98 tokens
+          dissolve_delay_seconds: 15768000 # 6 months
+          vesting_period_seconds: 126144000 # 48 months
+          memo: 47
 
 
 
@@ -648,375 +648,375 @@ Distribution:
         #Each portion will be divided into 8 equal-value neurons.
         #37.5M+25M+25M+5555416.666+（1388916.666*5）=100M tokens (= 10% of total supply)
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 2628000 # 1 month
-        memo: 0
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 2628000 # 1 month
+          memo: 0
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 5256000 # 2 months
-        memo: 1
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 5256000 # 2 months
+          memo: 1
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 7884000 # 3 months
-        memo: 2
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 7884000 # 3 months
+          memo: 2
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 10512000 # 4 months
-        memo: 3
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 10512000 # 4 months
+          memo: 3
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 13140000 # 5 months
-        memo: 4
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 13140000 # 5 months
+          memo: 4
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 15768000 # 6 months
-        memo: 5
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 15768000 # 6 months
+          memo: 5
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 18396000 # 7 months
-        memo: 6
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 18396000 # 7 months
+          memo: 6
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 21024000 # 8 months
-        memo: 7
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 21024000 # 8 months
+          memo: 7
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 23652000 # 9 months
-        memo: 8
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 23652000 # 9 months
+          memo: 8
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 26280000 # 10 months
-        memo: 9
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 26280000 # 10 months
+          memo: 9
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 28908000 # 11 months
-        memo: 10
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 28908000 # 11 months
+          memo: 10
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 31536000 # 12 months
-        memo: 11
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 31536000 # 12 months
+          memo: 11
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 34164000 # 13 months
-        memo: 12
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 34164000 # 13 months
+          memo: 12
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 36792000 # 14 months
-        memo: 13
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 36792000 # 14 months
+          memo: 13
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 39420000 # 15 months
-        memo: 14
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 39420000 # 15 months
+          memo: 14
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 42048000 # 16 months
-        memo: 15
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 42048000 # 16 months
+          memo: 15
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 44676000 # 17 months
-        memo: 16
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 44676000 # 17 months
+          memo: 16
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 47304000 # 18 months
-        memo: 17
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 47304000 # 18 months
+          memo: 17
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 49932000 # 19 months
-        memo: 18
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 49932000 # 19 months
+          memo: 18
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 52560000 # 20 months
-        memo: 19
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 52560000 # 20 months
+          memo: 19
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 55188000 # 21 months
-        memo: 20
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 55188000 # 21 months
+          memo: 20
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 57816000 # 22 months
-        memo: 21
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 57816000 # 22 months
+          memo: 21
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 60444000 # 23 months
-        memo: 22
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 60444000 # 23 months
+          memo: 22
 
-        principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
-        stake: 1562500 tokens
-        dissolve_delay_seconds: 2628000 # 1 month
-        vesting_period_seconds: 63072000 # 24 months
-        memo: 23
+        - principal: qphpo-ilq37-6yfcu-ai3gm-b2adp-evzzu-46jku-dhirm-un7al-cftlg-4qe
+          stake: 1562500 tokens
+          dissolve_delay_seconds: 2628000 # 1 month
+          vesting_period_seconds: 63072000 # 24 months
+          memo: 23
 
 
         #The strategic round investors' tokens are allocated across 4 portions with token amounts of 6666666.667 8333333.3331111111.111 and 13888888.89. All tokens come with a 0 dissolve delay and vesting over 24 months.
         #Each portion will be divided into 24 equal-value neurons.
         #6666666.667+8333333.333+1111111.111+13888888.89 = 30M tokens (= 3% of total supply)
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 2628000 # 1 month
-        memo: 0 
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 2628000 # 1 month
+          memo: 0 
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 5256000 # 2 months
-        memo: 1 
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 5256000 # 2 months
+          memo: 1 
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 7884000 # 3 months
-        memo: 2 
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 7884000 # 3 months
+          memo: 2 
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 10512000 # 4 months
-        memo: 3 
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 10512000 # 4 months
+          memo: 3 
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 13140000 # 5 months
-        memo: 4
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 13140000 # 5 months
+          memo: 4
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 15768000 # 6 months
-        memo: 5
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 15768000 # 6 months
+          memo: 5
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 18396000 # 7 months
-        memo: 6
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 18396000 # 7 months
+          memo: 6
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 21024000 # 8 months
-        memo: 7
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 21024000 # 8 months
+          memo: 7
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 23652000 # 9 months
-        memo: 8
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 23652000 # 9 months
+          memo: 8
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 26280000 # 10 months
-        memo: 9
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 26280000 # 10 months
+          memo: 9
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 28908000 # 11 months
-        memo: 10
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 28908000 # 11 months
+          memo: 10
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 31536000 # 12 months
-        memo: 11
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 31536000 # 12 months
+          memo: 11
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 34164000 # 13 months
-        memo: 12
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 34164000 # 13 months
+          memo: 12
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 36792000 # 14 months
-        memo: 13
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 36792000 # 14 months
+          memo: 13
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 39420000 # 15 months
-        memo: 14
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 39420000 # 15 months
+          memo: 14
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 42048000 # 16 months
-        memo: 15
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 42048000 # 16 months
+          memo: 15
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 44676000 # 17 months
-        memo: 16
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 44676000 # 17 months
+          memo: 16
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 47304000 # 18 months
-        memo: 17
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 47304000 # 18 months
+          memo: 17
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 49932000 # 19 months
-        memo: 18
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 49932000 # 19 months
+          memo: 18
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 52560000 # 20 months
-        memo: 19
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 52560000 # 20 months
+          memo: 19
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 55188000 # 21 months
-        memo: 20
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 55188000 # 21 months
+          memo: 20
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 57816000 # 22 months
-        memo: 21
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 57816000 # 22 months
+          memo: 21
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.777 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 60444000 # 23 months
-        memo: 22
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.777 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 60444000 # 23 months
+          memo: 22
 
-        principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
-        stake: 277777.796 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 63072000 # 24 months
-        memo: 23
+        - principal: rwrwc-k3ngz-udzu7-kub4b-3dkvl-ofi6x-ghqtb-tahpx-rhurv-ijczz-7qe
+          stake: 277777.796 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 63072000 # 24 months
+          memo: 23
 
 
 
         #The private sale investors' tokens are allocated across 5 portions with token amounts of 9523809.524 8333333.3339523809.524 3809523.81 and 8809523.809. The private sale investors will receive tokens in the form of a basket of 12 equal-value neurons. These neurons with Dissolution delays of 0 - 11 months respectively.
         #9523809.524+8333333.333+9523809.524+3809523.81+8809523.809=40M tokens (= 4% of total supply)
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 0
-        memo: 0 
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 0
+          memo: 0 
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 2628000 # 1 month
-        memo: 1 
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 2628000 # 1 month
+          memo: 1 
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 5256000 # 2 months
-        memo: 2 
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 5256000 # 2 months
+          memo: 2 
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 7884000 # 3 months
-        memo: 3
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 7884000 # 3 months
+          memo: 3
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 10512000 # 4 months
-        memo: 4
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 10512000 # 4 months
+          memo: 4
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 13140000 # 5 months
-        memo: 5
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 13140000 # 5 months
+          memo: 5
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 15768000 # 6 months
-        memo: 6
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 15768000 # 6 months
+          memo: 6
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 18396000 # 7 months
-        memo: 7
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 18396000 # 7 months
+          memo: 7
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 21024000 # 8 months
-        memo: 8
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 21024000 # 8 months
+          memo: 8
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 23652000 # 9 months
-        memo: 9
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 23652000 # 9 months
+          memo: 9
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 26280000 # 10 months
-        memo: 10
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 26280000 # 10 months
+          memo: 10
 
-        principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
-        stake: 793650.793 tokens
-        dissolve_delay_seconds: 0
-        vesting_period_seconds: 28908000 # 11 months
-        memo: 11
+        - principal: ba3b3-unegu-lcqsq-2opma-ahv67-4duqi-7gq2u-4rzrk-hi4ps-zq23g-2ae
+          stake: 793650.793 tokens
+          dissolve_delay_seconds: 0
+          vesting_period_seconds: 28908000 # 11 months
+          memo: 11
     # The initial SNS token balances of the various canisters of the SNS.
     InitialBalances:
         # The initial SNS token balance of the SNS Governance canister is known
