@@ -5,13 +5,13 @@ set -euo pipefail
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"
 
 # Deploy test canister
-./deploy_test_canister.sh
+# ./deploy_test_canister.sh
 
 # assert the default greeting text
 [ "$(./bin/dfx canister call test greet "M")" == '("Hoi, M!")' ] && echo "OK" || exit 1
 
 # Add NNS Root as a co-controller of the dapp canisters to be decentralized.
-./let_nns_control_dapp.sh
+# ./let_nns_control_dapp.sh
 
 # Create Service Nervous System.
 ./propose_sns.sh
