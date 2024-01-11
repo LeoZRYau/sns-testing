@@ -117,7 +117,7 @@ fallback_controller_principals:
   # principals of your intended fallback controllers.
   #
   # For testing, propose_sns.sh will fill this in automatically.
-  - 2we4k-xim55-asne3-m7o22-fliz6-lmu6q-5pwc5-evfit-4scxr-itg7g-xae # GLDT production deployment ID
+  - bvt6c-3we7h-a6aeb-f57lr-qxyou-33jd5-y4x57-dif3m-p75yu-yzis7-dae  # ICPSwap CI principal.
 
 # The list of dapp canister(s) that will be decentralized if the
 # decentralization swap succeeds. These are defined in the form of canister IDs,
@@ -131,6 +131,7 @@ dapp_canisters:
   # IDs of the canisters comprising your to-be-decentralized dapp.
   #
   # For testing, propose_sns.sh will fill this in automatically.
+  - YOUR_CANISTER_ID
 #   - oh54a-baaaa-aaaap-abryq-cai # GLDT ledger
 #   - oo6x4-xiaaa-aaaap-abrza-cai # GLDT ledger indexer
 #   - o4yaf-3yaaa-aaaap-abr2a-cai # GLDT explorer frontend
